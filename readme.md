@@ -32,3 +32,5 @@ Place your input image in the configured input directory, then run the `process(
 ## Example
 
 Given an image sliced vertically into strips labeled `[0, 1, 2, 3, 4, 5]`, after vertical rearrangement it becomes `[0, 2, 4, 1, 3, 5]`. Then the horizontally sliced strips are grouped and stacked to generate the final composite.
+
+![Processed Image](images/modified_images/smurf_final.jpg)
