@@ -37,5 +37,5 @@ Given an image sliced vertically into strips labeled `[0, 1, 2, 3, 4, 5]`, after
 ![Original Image](images/original_images/smurf.jpg)
 ### After Vertical Strip Rearrangement
 ![Processed Image](images/modified_images/smurf_rearranged.jpg)
-### After Horizontal Strip Grouping and Stacking
+### After Horizontal Strip Rearrangement
 ![Processed Image](images/modified_images/smurf_final.jpg)
